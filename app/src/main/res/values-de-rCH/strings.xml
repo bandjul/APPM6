@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gemeinde Haute-Sorne</string>
+    <string name="SplashScreenTexte">Gemeinde Haute-Sorne</string>
+    <string name="ButtonTextSite">Greifen Sie auf die Site zu</string>
+    <string name="ErrorTexteQREmpty">Kein QR-Code gescannt</string>
+    <string name="ErrorTexteQRNotSite">Der gescannte QR ist keine Site</string>
+    <string name="ResultTextInfo">Ergebnis</string>
+    <string name="TextInfoHorizontalScreenQR">Merci de mettre l\'appareil en mode portrail pour pouvoir scanner</string>
+</resources>

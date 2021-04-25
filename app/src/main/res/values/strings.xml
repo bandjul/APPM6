@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Commune Haute-Sorne</string>
+    <string name="SplashScreenTexte">Commune Haute-Sorne</string>
+    <string name="ButtonTextSite">Accéder au site</string>
+    <string name="ErrorTexteQREmpty">Aucun QR code scanné</string>
+    <string name="ErrorTexteQRNotSite">Le QR scanné n\'est pas un site</string>
+    <string name="ResultTextInfo">Résultat</string>
+    <string name="TextInfoHorizontalScreenQR">Merci de mettre l\'appareil en mode portrail pour pouvoir scanner</string>
+</resources>
